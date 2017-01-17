@@ -1,4 +1,4 @@
-# Check if two numbers are anagrams
+# Check if two words are anagrams
 
 def anagram(s1, s2):
     c1 = [0] * 26
