@@ -1,6 +1,6 @@
 # A class implementing fractions
 
-class Fraction:
+class Fraction(object):
     def __init__(self, top, bottom):
         self.num = top
         self.den = bottom
